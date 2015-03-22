@@ -1,0 +1,104 @@
+
+redbird.png
+size: 510,510
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+redbird0001
+  rotate: false
+  xy: 2, 346
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+redbird00010
+  rotate: false
+  xy: 2, 2
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+redbird00011
+  rotate: false
+  xy: 266, 445
+  size: 103, 65
+  orig: 103, 65
+  offset: 0, 0
+  index: -1
+redbird00012
+  rotate: false
+  xy: 104, 120
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+redbird00013
+  rotate: false
+  xy: 104, 46
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+redbird00014
+  rotate: false
+  xy: 139, 445
+  size: 125, 65
+  orig: 125, 65
+  offset: 0, 0
+  index: -1
+redbird0002
+  rotate: false
+  xy: 2, 248
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+redbird0003
+  rotate: false
+  xy: 104, 355
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+redbird0004
+  rotate: false
+  xy: 206, 372
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+redbird0005
+  rotate: false
+  xy: 2, 445
+  size: 135, 65
+  orig: 135, 65
+  offset: 0, 0
+  index: -1
+redbird0006
+  rotate: false
+  xy: 2, 79
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+redbird0007
+  rotate: false
+  xy: 2, 162
+  size: 100, 84
+  orig: 100, 84
+  offset: 0, 0
+  index: -1
+redbird0008
+  rotate: false
+  xy: 104, 271
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1
+redbird0009
+  rotate: false
+  xy: 104, 195
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1

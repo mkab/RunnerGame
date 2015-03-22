@@ -1,0 +1,376 @@
+
+pack.png
+size: 4069,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10003Layer233
+  rotate: false
+  xy: 3406, 85
+  size: 80, 156
+  orig: 80, 156
+  offset: 0, 0
+  index: -1
+10004Layer234
+  rotate: false
+  xy: 2880, 62
+  size: 80, 156
+  orig: 80, 156
+  offset: 0, 0
+  index: -1
+10009Layer236
+  rotate: false
+  xy: 3829, 147
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+10010Layer235
+  rotate: false
+  xy: 3650, 32
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+94
+  rotate: false
+  xy: 1570, 116
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 1845, 212
+  size: 198, 191
+  orig: 198, 191
+  offset: 0, 0
+  index: -1
+Goldprogress
+  rotate: false
+  xy: 1776, 173
+  size: 30, 102
+  split: 9, 9, 9, 9
+  orig: 30, 102
+  offset: 0, 0
+  index: -1
+Orange
+  rotate: false
+  xy: 1547, 277
+  size: 296, 126
+  orig: 296, 126
+  offset: 0, 0
+  index: -1
+Shiftkey
+  rotate: false
+  xy: 3729, 356
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 3063, 138
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+barrack
+  rotate: false
+  xy: 1295, 251
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+cabinNight
+  rotate: false
+  xy: 3179, 77
+  size: 225, 164
+  orig: 225, 164
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 2336, 55
+  size: 158, 116
+  orig: 158, 116
+  offset: 0, 0
+  index: -1
+cloud1Night
+  rotate: false
+  xy: 3650, 138
+  size: 177, 113
+  orig: 177, 113
+  offset: 0, 0
+  index: -1
+cloud2Night
+  rotate: false
+  xy: 2962, 62
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+effectforgreen
+  rotate: false
+  xy: 997, 275
+  size: 296, 126
+  orig: 296, 126
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 3462, 254
+  size: 265, 252
+  orig: 265, 252
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1526, 123
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+goldenSheep
+  rotate: false
+  xy: 3981, 185
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 930, 147
+  size: 296, 126
+  split: 48, 48, 44, 40
+  pad: 46, 43, 44, 40
+  orig: 296, 126
+  offset: 0, 0
+  index: -1
+greenpressed
+  rotate: false
+  xy: 930, 19
+  size: 296, 126
+  split: 52, 51, 45, 41
+  pad: 51, 48, 46, 40
+  orig: 296, 126
+  offset: 0, 0
+  index: -1
+groundGrass
+  rotate: false
+  xy: 2, 19
+  size: 373, 102
+  orig: 373, 102
+  offset: 0, 0
+  index: -1
+heli
+  rotate: false
+  xy: 1547, 167
+  size: 227, 108
+  orig: 227, 108
+  offset: 0, 0
+  index: -1
+hill1
+  rotate: false
+  xy: 2269, 409
+  size: 305, 97
+  orig: 305, 97
+  offset: 0, 0
+  index: -1
+hill1Night
+  rotate: false
+  xy: 1959, 407
+  size: 308, 99
+  orig: 308, 99
+  offset: 0, 0
+  index: -1
+hill2Night
+  rotate: false
+  xy: 414, 84
+  size: 514, 231
+  orig: 514, 231
+  offset: 0, 0
+  index: -1
+hill3Night
+  rotate: false
+  xy: 414, 317
+  size: 581, 189
+  orig: 581, 189
+  offset: 0, 0
+  index: -1
+hill4Night
+  rotate: false
+  xy: 997, 403
+  size: 496, 103
+  orig: 496, 103
+  offset: 0, 0
+  index: -1
+hill5Night
+  rotate: false
+  xy: 1495, 405
+  size: 462, 101
+  orig: 462, 101
+  offset: 0, 0
+  index: -1
+item1
+  rotate: false
+  xy: 2479, 208
+  size: 93, 199
+  orig: 93, 199
+  offset: 0, 0
+  index: -1
+lamp1
+  rotate: false
+  xy: 4031, 387
+  size: 38, 119
+  orig: 38, 119
+  offset: 0, 0
+  index: -1
+miniPond
+  rotate: false
+  xy: 609, 21
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+ninja
+  rotate: false
+  xy: 2637, 84
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+paltform1
+  rotate: false
+  xy: 377, 2
+  size: 230, 80
+  split: 112, 109, 49, 28
+  orig: 230, 80
+  offset: 0, 0
+  index: -1
+paltform2
+  rotate: false
+  xy: 609, 52
+  size: 220, 30
+  orig: 220, 30
+  offset: 0, 0
+  index: -1
+pressedorange
+  rotate: false
+  xy: 1228, 123
+  size: 296, 126
+  orig: 296, 126
+  offset: 0, 0
+  index: -1
+rainDrop
+  rotate: false
+  xy: 930, 287
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+rightArrow
+  rotate: false
+  xy: 2576, 206
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+sheep
+  rotate: false
+  xy: 1476, 51
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+spacebar
+  rotate: false
+  xy: 3729, 253
+  size: 300, 101
+  orig: 300, 101
+  offset: 0, 0
+  index: -1
+tree3
+  rotate: false
+  xy: 2878, 220
+  size: 299, 286
+  orig: 299, 286
+  offset: 0, 0
+  index: -1
+treeBack1
+  rotate: false
+  xy: 3488, 101
+  size: 160, 151
+  orig: 160, 151
+  offset: 0, 0
+  index: -1
+treeFront1
+  rotate: false
+  xy: 3179, 243
+  size: 281, 263
+  orig: 281, 263
+  offset: 0, 0
+  index: -1
+treeFront2
+  rotate: false
+  xy: 2, 123
+  size: 410, 383
+  orig: 410, 383
+  offset: 0, 0
+  index: -1
+treeback2
+  rotate: false
+  xy: 2761, 94
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+ufocrash
+  rotate: false
+  xy: 1228, 17
+  size: 246, 104
+  orig: 246, 104
+  offset: 0, 0
+  index: -1
+watertower
+  rotate: false
+  xy: 2336, 173
+  size: 141, 234
+  orig: 141, 234
+  offset: 0, 0
+  index: -1
+windMain
+  rotate: false
+  xy: 3802, 53
+  size: 24, 83
+  orig: 24, 83
+  offset: 0, 0
+  index: -1
+windRotor
+  rotate: false
+  xy: 2962, 123
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+windmillMain
+  rotate: false
+  xy: 2045, 170
+  size: 151, 235
+  orig: 151, 235
+  offset: 0, 0
+  index: -1
+windmillRotating
+  rotate: false
+  xy: 2496, 64
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+zombie1
+  rotate: false
+  xy: 2198, 55
+  size: 136, 350
+  orig: 136, 350
+  offset: 0, 0
+  index: -1

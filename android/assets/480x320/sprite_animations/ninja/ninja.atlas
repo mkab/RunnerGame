@@ -1,0 +1,76 @@
+
+ninja.png
+size: 480,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ninja0001
+  rotate: false
+  xy: 274, 56
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+ninja00010
+  rotate: false
+  xy: 218, 2
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+ninja0002
+  rotate: false
+  xy: 106, 59
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+ninja0003
+  rotate: false
+  xy: 2, 49
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+ninja0004
+  rotate: false
+  xy: 54, 54
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+ninja0005
+  rotate: false
+  xy: 218, 62
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+ninja0006
+  rotate: false
+  xy: 430, 57
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+ninja0007
+  rotate: false
+  xy: 326, 55
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+ninja0008
+  rotate: false
+  xy: 162, 59
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+ninja0009
+  rotate: false
+  xy: 378, 56
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
